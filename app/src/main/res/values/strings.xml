@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pausa</string>
+    <string name="tagline">Mide tu tiempo en las apps y te frena cuando te pasas.</string>
+
+    <string name="perm_title">Permisos necesarios</string>
+    <string name="perm_usage">Acceso al uso de apps</string>
+    <string name="perm_overlay">Mostrar sobre otras apps</string>
+    <string name="perm_notif">Notificaciones</string>
+    <string name="perm_grant">Dar permiso</string>
+    <string name="perm_ok">Listo ✓</string>
+
+    <string name="monitor_switch">Vigilancia activa</string>
+    <string name="test_alarm">Probar alarma</string>
+    <string name="today_total">Hoy: %1$s en total</string>
+    <string name="wins">💪 Te has detenido %1$d veces</string>
+    <string name="usage_today">Hoy: %1$s</string>
+    <string name="usage_of_limit">Hoy: %1$s de %2$s</string>
+    <string name="no_limit">Sin límite</string>
+    <string name="limit_dialog_title">Límite diario para %1$s</string>
+    <string name="need_usage_first">Primero da el permiso de acceso al uso.</string>
+    <string name="need_overlay_first">Primero da el permiso de mostrar sobre otras apps.</string>
+    <string name="loading">Cargando apps…</string>
+
+    <string name="channel_monitor">Vigilancia</string>
+    <string name="channel_warn">Avisos de límite</string>
+    <string name="notif_watching">Vigilando tu tiempo</string>
+    <string name="notif_no_limits">Sin límites configurados</string>
+    <string name="notif_app_progress">%1$s: %2$s de %3$s</string>
+    <string name="notif_stop">Detener</string>
+    <string name="warn_title">Casi llegas a tu límite</string>
+    <string name="warn_text">Te queda %1$s en %2$s.</string>
+    <string name="over_title">Se acabó tu tiempo en %1$s</string>
+    <string name="over_text">Activa \"Mostrar sobre otras apps\" para ver la alarma interactiva.</string>
+
+    <string name="alarm_title">¡Tiempo!</string>
+    <string name="alarm_message">Llevas %1$s en %2$s hoy.\nTu límite era %3$s.</string>
+    <string name="alarm_test_message">Esto es una prueba de la alarma.\nAsí se verá cuando llegues a tu límite.</string>
+    <string name="alarm_leave">Ya me voy 👋</string>
+    <string name="alarm_more">Necesito %1$d minutos más</string>
+    <string name="alarm_better_leave">Mejor me voy</string>
+    <string name="breathe_title">Respira antes de decidir</string>
+    <string name="breathe_in">Inhala…</string>
+    <string name="breathe_out">Exhala…</string>
+    <string name="breathe_question">¿De verdad lo necesitas?</string>
+    <string name="challenge_title">Resuelve para desbloquear %1$d min</string>
+    <string name="challenge_progress">Reto %1$d de %2$d</string>
+    <string name="challenge_wrong">Incorrecto 😅 Respira otra vez.</string>
+    <string name="toast_leave">¡Bien hecho! 💪</string>
+    <string name="toast_extend">Tienes %1$d minutos. Úsalos bien.</string>
+    <string name="toast_test_done">Prueba terminada</string>
+</resources>

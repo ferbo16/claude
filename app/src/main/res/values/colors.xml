@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pausa_primary">#5B4CF0</color>
+    <color name="pausa_on_primary">#FFFFFF</color>
+    <color name="pausa_primary_container">#E4E0FF</color>
+    <color name="pausa_on_primary_container">#1A1060</color>
+    <color name="pausa_alarm">#E5484D</color>
+    <color name="pausa_ok">#2F9E6B</color>
+    <color name="overlay_scrim">#F20E1016</color>
+    <color name="ic_launcher_background">#5B4CF0</color>
+</resources>

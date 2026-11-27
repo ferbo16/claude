@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Pausa" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/pausa_primary</item>
+        <item name="colorOnPrimary">@color/pausa_on_primary</item>
+        <item name="colorPrimaryContainer">@color/pausa_primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/pausa_on_primary_container</item>
+        <item name="colorError">@color/pausa_alarm</item>
+    </style>
+</resources>
