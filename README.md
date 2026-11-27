@@ -60,3 +60,7 @@ app/src/main/java/com/pausa/app/
 ## Nota sobre iPhone
 
 iOS no permite que una app normal lea el tiempo de uso de otras apps; eso requiere la API *Screen Time / FamilyControls* de Apple con un permiso especial. Por eso esta versión es para Android.
+
+## Cambiar el estilo visual con Refero + Claude
+
+Puedes darle a Pausa el "look" de una web conocida usando [Refero Styles](https://styles.refero.design) y la skill `refero-style` incluida en `.claude/skills/`. Guía paso a paso para principiantes: [docs/GUIA-REFERO.md](docs/GUIA-REFERO.md).
